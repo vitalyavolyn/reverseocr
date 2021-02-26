@@ -1,0 +1,13 @@
+{
+  "name": "reverseocr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "canvas": "^2.6.1",
+    "tesseract.js": "^2.1.4",
+    "vk-io": "^4.1.4"
+  }
+}
